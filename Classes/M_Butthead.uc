@@ -1,7 +1,7 @@
 class M_Butthead extends tK_NaliFighter 
      config(tK_Monsters);
 
-#EXEC OBJ LOAD FILE="Resources\tK_BeavisButthead_rc.u" PACKAGE="tk_BeavisButthead"
+#EXEC OBJ LOAD FILE="Resources\tk_BeavisButthead_rc.u" PACKAGE="tk_BeavisButthead"
 
 defaultproperties
 {
@@ -21,7 +21,7 @@ defaultproperties
      ScoringValue=8
      HP=100
      Health=100
-     Mesh=SkeletalMesh'tk_BeavisButthead.BeavisButthead.Butthead'
+     Mesh=SkeletalMesh'tk_BeavisButthead.Butthead'
      Skins(0)=Texture'tk_BeavisButthead.BeavisButthead.Body'
      Skins(1)=Texture'tk_BeavisButthead.BeavisButthead.Body'
 }

@@ -1,7 +1,7 @@
 class M_Beavis extends tK_NaliFighter 
      config(tK_Monsters);
 
-#EXEC OBJ LOAD FILE="Resources\tK_BeavisButthead_rc.u" PACKAGE="tk_BeavisButthead"
+#EXEC OBJ LOAD FILE="Resources\tk_BeavisButthead_rc.u" PACKAGE="tk_BeavisButthead"
 
 defaultproperties
 {
